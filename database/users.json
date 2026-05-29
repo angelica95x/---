@@ -1,0 +1,35 @@
+{
+    "8451193007": {
+        "id": "8451193007",
+        "username": "shadow95x",
+        "status": "owner",
+        "is_banned": 0,
+        "last_fix": 0,
+        "fix_limit": 0,
+        "referral_points": 0,
+        "referred_by": null,
+        "join_date": "2026-03-16T21:21:33.721Z"
+    },
+    "7021602994": {
+        "id": "7021602994",
+        "username": "kagenoxofc",
+        "status": "free",
+        "is_banned": 0,
+        "last_fix": 0,
+        "fix_limit": 0,
+        "referral_points": 0,
+        "referred_by": null,
+        "join_date": "2026-03-16T21:28:32.933Z"
+    },
+    "7508127456": {
+        "id": "7508127456",
+        "username": "massachika Kuze",
+        "status": "free",
+        "is_banned": 0,
+        "last_fix": 0,
+        "fix_limit": 0,
+        "referral_points": 0,
+        "referred_by": null,
+        "join_date": "2026-03-17T10:56:06.356Z"
+    }
+}
