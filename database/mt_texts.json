@@ -1,8 +1,0 @@
-[
-    {
-        "id": 1,
-        "to_email": "android@support.whatsapp.com",
-        "subject": "mt fix",
-        "body": "Yth. Tim Dukungan WhatsApp,\nSaya ingin mengajukan permohonan pengecekan akun karena saat ini\ntidak dapat login ke WhatsApp.\nKendala yang saya alami:\n• Kode OTP tidak masuk\n• Muncul pesan “login tidak tersedia”\n• Akses akun terkunci meskipun nomor masih aktif\nSaya memastikan nomor tersebut adalah milik saya dan digunakan\nsecara normal untuk keperluan pribadi. Saya juga tidak melakukan\naktivitas yang melanggar kebijakan WhatsApp.\nMohon bantuan tim WhatsApp untuk melakukan verifikasi dan membuka\nkembali akses akun saya dengan nomor berikut:\nnomor: {nomor}"
-    }
-]
